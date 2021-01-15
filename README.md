@@ -21,11 +21,11 @@
 <details>
   <summary>🔎 Stalk me elsewhere</summary>
 
-[<img align="left" alt="aadilk96 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="aadilk96 | Goodreads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][[goodreads]]
+[<img align="left" alt="aadilk96 | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1610736607~hmac=2e1a4d553f2ced79776e714c5a234c2a" />][linkedin]
+[<img align="left" alt="aadilk96 | Goodreads" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111297.svg?token=exp=1610736649~hmac=47b8fcfee7e2cf6b4d5f3602c6d4cbde" />][goodreads]
 [<img align="left" alt="aadilk96 | Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1610736218~hmac=94acc3d685b452a98fe155a1e1178518" />][instagram]
 </details>
 
 [goodreads]: https://www.goodreads.com/user/show/104945614-aadil-kumar
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://instagram.com/aadilk96
+[linkedin]: https://linkedin.com/in/aadilanilkumar
