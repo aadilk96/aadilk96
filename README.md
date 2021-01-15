@@ -1,4 +1,4 @@
-### Hello friend! I hope you enjoy your time here, and in your journey onward 🙏🏾
+### Hello friend! I hope you enjoy your time here, and on your journey forward 🙏🏾
 
 - 📱 Product Enablement Manager @ Emarsys x SAP
 - 👾 Computer Science graduate
@@ -19,7 +19,7 @@
 </details>
 
 <details>
-  <summary>🔎 Stalk me elsewhere</summary>
+  <summary>🔎 Socials</summary>
 
 [<img align="left" alt="aadilk96 | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1610736607~hmac=2e1a4d553f2ced79776e714c5a234c2a" />][linkedin]
 [<img align="left" alt="aadilk96 | Goodreads" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111297.svg?token=exp=1610736649~hmac=47b8fcfee7e2cf6b4d5f3602c6d4cbde" />][goodreads]
