@@ -3,7 +3,7 @@
 - 📱 Product Enablement Manager @ Emarsys x SAP
 - 👾 Computer Science graduate
 - 🌱 Continually growing, currently learning: React, Web Auth
-- 📚 Avid reader, currently reading: The Last Days of Socrates, Plato
+- 📚 Avid reader, currently reading: The Myth of Sisyphus, Albert Camus
 - 💭 Interested in the bigger picture
 - 🏀 Big time basketball fan & player, and overall fitness enthusiast
 
