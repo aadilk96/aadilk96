@@ -3,8 +3,8 @@
 - 📱 Product Enablement Manager @ Emarsys x SAP
 - 👾 Computer Science graduate
 - 🌱 Continually growing, currently learning: ETL Processes, Web Auth
-- 📚 Avid reader, currently reading: The Myth of Sisyphus, Albert Camus
-- 💭 I like to think about the bigger picture 
+- 📚 Avid reader, currently reading: The Anthropocene Reviewed: Essays on a Human‑Centered Planet, John Green
+- 💭 I like thinking about the bigger picture 
 - 🏀 Big time basketball fan & player, and overall fitness enthusiast
 
 <details>
