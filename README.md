@@ -3,7 +3,7 @@
 - 📱 Product Enablement Manager @ Emarsys x SAP
 - 👾 Computer Science graduate
 - 🌱 Continually growing, currently learning: ETL Processes, Web Auth
-- 📚 Avid reader, currently reading: The Anthropocene Reviewed: Essays on a Human‑Centered Planet, John Green
+- 📚 Avid reader, currently reading: The Wind-Up Bird Chronicle, Haruki Murakami
 - 💭 I like thinking about the bigger picture 
 - 🏀 Big time basketball fan & player, and overall fitness enthusiast
 
