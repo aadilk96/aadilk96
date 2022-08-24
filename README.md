@@ -1,6 +1,6 @@
 ### Hello friend! I hope you enjoy your time here, and on your journey forward 🙏🏾
 
-- 📱 Product Enablement Manager @ Emarsys x SAP
+- 📱 Product Manager @ Emarsys x SAP
 - 👾 Computer Science graduate
 - 🌱 Continually growing, currently learning: ETL Processes, Web Auth
 - 📚 Avid reader, currently reading: Killing Commendatore, Haruki Murakami
